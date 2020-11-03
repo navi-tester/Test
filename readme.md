@@ -7,7 +7,7 @@ Amplifr is a service web that help user to manage all and each one of they socia
 #### Documentation
 
 * Read API Documentation [here!][1]
-* Read Soap Documentation [here!][2]
+* Read Soap Documentation [here!][3]
 
 #### Contributing
 
@@ -15,7 +15,7 @@ Amplifr is an open source, community is growing faster. Join them contributing c
 
 #### Security Issues
 
-If you discover a security vulnerability within Amplifr, please [contact with us][3]
+If you discover a security vulnerability within Amplifr, please [contact with us][2]
 
 #### About Us
 
@@ -24,5 +24,5 @@ Amplifr development is leading by SPS Team and supported by
 * Luis Antonio Manjarrez
 
 [1]: https://amplifr2.docs.apiary.io/#
-[2]: 
-[3]: https://www.spsolutions.com.mx
+[2]: https://www.spsolutions.com.mx
+[3]: 
