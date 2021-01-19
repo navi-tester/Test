@@ -13,13 +13,13 @@ Returns a menu with all available commands
 #### input: 
 /help
 #### output:
-/youtube <"video name">
-/mylocation
-/location <"IP">
-/song <"song name">
-/translate <"source_language destination_language phrase">
-/help
-/example
+* /youtube <"video name">
+* /mylocation
+* /location <"IP">
+* /song <"song name">
+* /translate <"source_language destination_language phrase">
+* /help
+* /example
 For more help contact the admin
 
 ### /example
@@ -27,13 +27,13 @@ Returns a menu with all available commands with examples
 #### input: 
 /example
 #### output:
-/youtube life on mars David Bowie
-/mylocation
-/location 172.217.15.14
-/song walk away Franz Ferdinand
-/translate english spanish Hello World
-/help
-/example
+* /youtube life on mars David Bowie
+* /mylocation
+* /location 172.217.15.14
+* /song walk away Franz Ferdinand
+* /translate english spanish Hello World
+* /help
+* /example
 if you need more help contact the admin
 
 ### /youtube <"video name">
@@ -48,20 +48,20 @@ Returns my IP address location data
 #### input:
 /mylocation
 #### output:
-Country: US
-Region: 
-Timezone: America/Chicago
-IP: 142.250.69.46
+* Country: US
+* Region: 
+* Timezone: America/Chicago
+* IP: 142.250.69.46
 
 ### /location <"IP">
 Returns my IP address location data
 #### input:
 /location 172.217.15.14
 #### output:
-Country: US
-Region: 
-Timezone: America/Chicago
-IP: 172.217.15.14
+* Country: US
+* Region: 
+* Timezone: America/Chicago
+* IP: 172.217.15.14
 
 ### /song <"song name">
 Returns song data with lyrics if it has
@@ -133,7 +133,7 @@ Cover [here!][4]
 ### /translate <"source_language destination_language phrase">
 Returns the translate phrase with an audio message to hear it
 #### input:
-/translate spanish english Estos es uns prueba, Hola Mundo.
+/translate spanish english Estos es una prueba, Hola Mundo.
 #### output:
 This is a test, Hello World.
 Audio message [here!][5]
