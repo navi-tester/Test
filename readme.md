@@ -1,4 +1,4 @@
-# Welcome to ibanushka official documentation
+# Welcome to ibanushkabot documentation
 
 ## Introduction
 
@@ -8,8 +8,14 @@ Test it [here!][1]
 
 ## Bot commands
 
-* /help
-* * /help -> Return a menu with all available commands
+#### /help
+/help -> Returns a menu with all available commands
+
+#### /example
+/example -> Returns a menu with all available commands with examples
+
+#### /youtube
+/youtube <"video name"> -> Returns the first match on youtube search
 
 ## Contributing
 
